@@ -13,7 +13,7 @@ El proyecto es sobre la detección del estado de madurez y la calidad de una nar
 reconocida mediante una fotografía. El proyecto fue realizado con el lenguaje Python 
 y la ayuda de otras herramientas que pueden revisarse en el código del mismo.
 
-Es importante revisar la documentación, que es elemental para comprender algunos
+Es importante revisar la [documentación](https://github.com/DevUrlXela/Proyecto-IA-2018/blob/master/Proyecto%20IA.pdf), que es elemental para comprender algunos
 detalles de todo el proceso por el que se pasó para llegar a una solución adecuada.
 
 (Documento redactado por Dhaby Xiloj, Catedrático del curso para el ciclo 2018)
