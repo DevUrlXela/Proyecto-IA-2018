@@ -7,7 +7,8 @@ realizado por el estudiante Abyezer Fernando Monzón Fuentes,
 el cual cumple de mejor manera con los requerimientos planteados. Tomando en cuenta
 incluso requerimientos técnicos, como la velocidad de procesamiento y las variaciones
 que puede llevarse mientras se trabaja con los algoritmos de reconocimiento de 
-patrones.
+patrones. Al código le hace falta órden y otras consideraciones de diseño de software,
+las cuales no fueron tomadas en cuenta como críticas para los objetivos del curso.
 
 El proyecto es sobre la detección del estado de madurez y la calidad de una naranja,
 reconocida mediante una fotografía. El proyecto fue realizado con el lenguaje Python 
